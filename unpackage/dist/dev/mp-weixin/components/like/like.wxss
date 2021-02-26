@@ -1,0 +1,18 @@
+
+.icons{
+		position:absolute;
+		right: 0;
+		top: 0;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		width: 20px;
+		height: 20px;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+}
+
